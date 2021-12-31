@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySky", "PaySky.csproj", "{3651917A-8C79-4124-9051-01F78960CB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3651917A-8C79-4124-9051-01F78960CB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3651917A-8C79-4124-9051-01F78960CB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3651917A-8C79-4124-9051-01F78960CB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3651917A-8C79-4124-9051-01F78960CB46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C33DEC5-F290-4ABC-8C32-55CA99E8FF06}
+	EndGlobalSection
+EndGlobal
