@@ -24,7 +24,7 @@ namespace PaySky.Controllers
         //{
         //    return View();
         //}
-        //[Authorize]
+        [Authorize]
         [Route("Request")]
         [HttpPost]
         public async Task<IActionResult> Request([FromBody] TransactionRequestModel transactionDataModel)
